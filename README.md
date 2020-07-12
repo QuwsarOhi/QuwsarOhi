@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **QuwsarOhi/QuwsarOhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋. I'm Ohi. I am a fresh computer science grad interested on research and development. My interest covers artificial intelligence, deep learning and statistical analysis. My core skills are **Python, Keras, Tensorflow, and MatplotLib**. On the contrary, my minor skills cover **Flask (micro web framework) and Flutter (Android-IOS app development)**. Apart from these, I have been an active Competitive Programmer and competed in more than 10 international and national contests including the ICPC and NCPC.
