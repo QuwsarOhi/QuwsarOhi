@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=QuwsarOhi&show_icons=true"/>](https://github.com/QuwsarOhi/)
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/quwsarohi/">
+<a href="https://www.linkedin.com/in/quwsarohi/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/amithasanshuvo">
+<a href="https://www.kaggle.com/amithasanshuvo" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/profile/Abu_Ohi">
+<a href="https://www.researchgate.net/profile/Abu_Ohi" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's ResearchGate" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.stopstalk.com/user/profile/QuwsarOhi">
+<a href="https://www.stopstalk.com/user/profile/QuwsarOhi" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Competitive Programming Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codewars.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.codechef.com/users/quwsarohi">
+<a href="https://www.codechef.com/users/quwsarohi" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's CodeChef" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codechef.svg" />
 </a>
 <br />
