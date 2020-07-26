@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/quwsarohi/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Abu_Ohi" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Ohi's ResearchGate" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
+</a>
 <a href="https://kaggle.com/quwsarohi/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.researchgate.net/profile/Abu_Ohi" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Ohi's ResearchGate" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
+<a href="https://stackoverflow.com/users/6165983/quwsar-ohi" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Ohi's StackOverflow" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.stopstalk.com/user/profile/QuwsarOhi" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ohi's Competitive Programming Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codewars.svg" />
